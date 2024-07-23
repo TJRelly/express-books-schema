@@ -1,4 +1,5 @@
-\c books
+-- \c books_test
+-- \c books
 
 CREATE TABLE books (
   isbn TEXT PRIMARY KEY,
